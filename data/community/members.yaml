@@ -1860,6 +1860,11 @@ triagers:
       - java-contrib-triagers
     html_url: https://github.com/cyrille-leclerc
     avatar_url: https://avatars.githubusercontent.com/u/459691?v=4
+  - name: d4nyll
+    teams:
+      - javascript-contrib-triagers
+    html_url: https://github.com/d4nyll
+    avatar_url: https://avatars.githubusercontent.com/u/9997953?v=4
   - name: dehaansa
     teams:
       - java-contrib-triagers
